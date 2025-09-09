@@ -1,7 +1,7 @@
 #!/bin/bash
 #Basic vulnerability scan with Nmap
 
-if [-z "$1" ]; then
+if [ -z "$1" ]; then
 	echo "Use: $0 <objetive>"
 	exit 1
 fi
