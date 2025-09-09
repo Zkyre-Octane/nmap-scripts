@@ -6,7 +6,7 @@ Legal Notice**: These scripts are intended solely for educational purposes
 and testing in controlled environments. Unauthorized use against 
 third-party systems may be illegal.
 
-## Scripts incluidos
+## Included Scripts
 - `basic-scan.sh`
 - `service-scan.sh`
 - `vuln-scan.sh`
